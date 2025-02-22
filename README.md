@@ -1,2 +1,2 @@
 # Statistic
-a project about cars with using R
+a project about cars with  R
